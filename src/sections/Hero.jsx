@@ -1,6 +1,7 @@
 import React from 'react'
 import { Button } from "@/components/Button";
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, Download, Github, Linkedin, Twitter } from 'lucide-react';
+import { AnimatedBorderButton } from '@/components/AnimatedBorderButton';
 
 export const Hero = () => {
  return <section className='relative min-h-screen flex items-center overflow-hidden'>
@@ -50,12 +51,26 @@ export const Hero = () => {
                 </div>
 
                 {/* CTAs */}
-                <div>
+                <div className='flex flex-wrap gap-4 animate-fade-in animation-delay-300'>
                     <Button size="lg">
                         Contact Me <ArrowRight className='w-5 h-5'/>
                     </Button>
+                  <AnimatedBorderButton/>
                 </div>
 
+                {/* Social Links*/}
+                <div className='flex items-center gap-4 animate-fade-in animation-delay-400'>
+                    <span className='text-sm text-muted-foreground'>Follow me: </span>
+                    {[
+                        {icon: Github, href: 'https://github.com/adimeller'},
+                        {icon: Linkedin, href: 'https://www.linkedin.com/in/adimeller/'},
+                        {icon: Twitter, href: 'https://x.com/adimeller'},
+                    ].map((social, idx) =>(
+                        <a key={idx} href={social.href} className='p-2 rounded-full glass hover:bg-primary/10 hover:text-primary transition-all duration-300'>
+                            {<social.icon className='w-5 h-5'/>}
+                        </a>
+                    ))}
+                </div>
             </div>
 
             {/* Right Column - Profile Content*/}
