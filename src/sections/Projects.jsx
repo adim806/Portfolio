@@ -4,38 +4,38 @@ import { AnimatedBorderButton } from '@/components/AnimatedBorderButton';
 
 const projects = [
     {
-      title: "Fintech Dashboard",
+      title: "DreamTrip-AI, smart travel assistant",
       description:
-        "A comprehensive financial analytics platform with real-time data visual",
-      image: "/projects/project1.png",
+        "A smart travel planner leveraging AI to generate personalized itineraries. Features real-time budget tracking and destination insights.",
+      image: "/projects/DreamTrip.png",
       tags: ["React", "Typescript", "NodeJS"],
       link: "#",
       github: "#",
     },
 
     {
-      title: "E-commerce Platform",
+      title: "Resume Builder-AI",
       description:
-        "A fully functional e-commerce platform with a modern UI and smooth user experience",
-      image: "/projects/project2.png",
+        "An AI-powered platform for crafting professional resumes. Includes smart content generation, ATS-friendly templates, and real-time preview.",
+      image: "/projects/resumeBuilder.png",
       tags: ["React", "TailwindCSS", "Next.js", "Shadcn UI"],
       link: "#",
       github: "#",
     },
     {
-      title: "Social Media Platform",
+      title: "Interview Prep-AI",
       description:
-        "A fully functional social media platform with a modern UI and smooth user experience",
+        "An interactive tool for technical interview preparation. Simulates mock interviews with AI feedback on code quality and soft skills.",
       image: "/projects/project3.png",
       tags: ["React", "TailwindCSS", "Next.js", "Shadcn UI"],
       link: "#",
       github: "#",
     },  
     {
-      title: "Blog Platform",
+      title: "Chatbot-AI",
       description:
-        "A fully functional blog platform with a modern UI and smooth user experience",
-      image: "/projects/project4.png",
+        "A versatile conversational agent built with modern UI principles. Supports context-aware interactions and seamless integration with LLM APIs.",
+      image: "/projects/chatClone.png",
       tags: ["React", "TailwindCSS", "Next.js", "Shadcn UI"],
       link: "#",
       github: "#",
