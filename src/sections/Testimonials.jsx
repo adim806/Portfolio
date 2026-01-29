@@ -4,29 +4,29 @@ import React, { useState } from 'react'
 const testimonials = [
     {
       quote:
-        "Adi is one of the most talented engineers I've worked with. His attention to detail and problem-solving skills are exceptional.",
-      author: "Sarah Chen",
-      role: "CTO, Tech Innovators Inc.",
+        "Adi has a solid grasp of algorithms and data structures. His ability to analyze problems and implement efficient solutions was evident throughout his studies.",
+      author: "Dr. Marina Knyazhansky",
+      role: "Senior Lecturer, Software Engineering",
       avatar:
         "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
     },
     {
       quote:
-        "Working with Adi was a game-changer for our project. He delivered ahead of schedule and exceeded all our technical expectations.",
-      author: "Michael Rodriguez",
-      role: "Product Manager, Digital Solutions",
+        "Working with Adi on our final project was a great experience. His background as an officer brings a calm, organized, and dedicated approach to the team.",
+      author: "Gal Israeli",
+      role: "Software Engineering Peer",
       avatar:
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
     },
     {
       quote:
-        "Adi's expertise in React and TypeScript helped us rebuild our entire frontend architecture into something scalable and performant.",
-      author: "Emily Watson",
-      role: "Engineering Lead, StartUp Labs",
+        "Adi is a reliable team member with a strong resilient mindset. He effectively bridges front-end design with back-end logic, making him a great asset to any project.",
+      author: "Itamar Levi",
+      role: "Software Engineering Peer",
       avatar:
-        "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
+        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
     },
-  ];
+];
 
 
 
@@ -91,7 +91,7 @@ export const Testimonials = () => {
                     </button>
 
                     <div className='flex gap-2'>{testimonials.map((_, idx) => (
-                        <button onClick={() => setActiveIdx(idx)} className={`w-2 h-2 rounded-full transition-all duration-300 ${idx === activeIdx ? "w-8 bg-primary" : "bg-muted-forefround/30 hover:bg-muted-forefround/50"}`}/>
+                        <button key={idx} onClick={() => setActiveIdx(idx)} className={`w-2 h-2 rounded-full transition-all duration-300 ${idx === activeIdx ? "w-8 bg-primary" : "bg-muted-forefround/30 hover:bg-muted-forefround/50"}`}/>
                     ))}
                     </div>
 

@@ -46,17 +46,10 @@ const highlights = [
                 </h2>
                 <div className='space-y-4 text-muted-foreground animate-fade-in animation-delay-200'>
                     <p>
-                        I'm a passionate software engineer with over 5 years of
-                        experience crafting digital products that make a difference. My
-                        journey started with a curiosity for how things work on the web
-                        and it has evolved into a deep expertise in modern frontend
-                        technologies.
+                    As a Software Engineering graduate and an IDF combat Captain, I bring a unique perspective to software development. My experience as an Intelligence Officer—analyzing complex data to support strategic decisions.
                     </p>
                     <p>
-                        I specialize in React, Next.js, and TypeScript, building
-                        everything from sleek landing pages to complex enterprise
-                        applications. My approach combines technical excellence with a
-                        keen eye for design and user experience.
+                    This experience informs my focus on building intelligent, API-driven systems. Having navigated the challenges of service-related injuries, I possess a profound sense of adaptability and grit. As a specialist in the JavaScript ecosystem and modern Dev-Ops, I am dedicated to crafting robust software solutions.
                     </p>
                     <p>
                         When I'm not coding, you'll find me exploring new technologies,
@@ -67,9 +60,9 @@ const highlights = [
 
                 <div className='glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300'>
                     <p className='text-lg font-medium italic text-foreground'>
-                    "My mission is to create digital experiences that are not just
-                    functional, but truly delightful — products that users love to
-                    use and developers love to maintain."
+                    "My mission is to translate complex technical challenges into simple, crafting
+                    intelligent systems that solve real-world problems while remaining
+                    clean, maintainable, and profoundly user-friendly."
                     </p>
 
                 </div>

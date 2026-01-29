@@ -2,24 +2,24 @@ import React from 'react'
 
 const experiences = [
     {
-      period: "2022 – Present",
-      role: "Senior Frontend Engineer",
-      company: "Tech Innovators Inc.",
+      period: "2021 – 2025",
+      role: "B.Sc. Software Engineering Student",
+      company: "SCE - Software College of Engineering",
       description:
-        "Leading frontend architecture for a suite of fintech products. Impleme",
-      technologies: ["React", "TypeScript", "Next.js", "GraphQL"],
+        "Completed a comprehensive degree in Software Engineering, specializing in full-stack development. Built various intelligent systems, including API-based projects and AI-integrated tools with automated CI/CD pipelines.",
+      technologies: ["React", "JavaScript","HTML", "CSS", "Python","Next.js", "Node.js", "Docker", "MongoDB", "Express", "MySQL", "Algorithms", "Git", "CI/CD", "AI", "Dev-Ops", "Agile", "OOP", "Design Patterns", "Data Structures"],
       current: true,
     },
     {
-      period: "2020 – 2022",
-      role: "Frontend Engineer",
-      company: "Digital Solutions Co.",
+      period: "2015 – 2019",
+      role: "Combat Officer (Captain) – Air Defense Array",
+      company: "IDF",
       description:
-        "Built and maintained multiple React applications for enterprise client",
-      technologies: ["React", "Redux", "Jest", "Cypress"],
+        "Operational Team Lead managing 20-person units in high-pressure environments. Specialized in mission-critical system operations (Iron Dome) and intelligence data analysis to support strategic decision-making.",
+      technologies: ["Leadership", "Data Analysis", "Strategic Planning", "Critical Systems"],
       current: false,
     },
-  ];
+];
 
 export const Experience = () => {
  return <section id="experience" className="py-32 relative overflow-hidden">
