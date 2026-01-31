@@ -1,16 +1,65 @@
-# React + Vite
+# 👨‍💻 Adi Meller | Full-Stack Software Engineer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository. This site serves as a central hub to showcase my journey, technical skills, and the projects I've built as a recent Software Engineering graduate.
 
-Currently, two official plugins are available:
+[![Website](https://img.shields.io/badge/Website-Adi--Meller-blue)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Stack](https://img.shields.io/badge/Tech-React%20%2B%20Tailwind-61DAFB)](https://reactjs.org)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio is a reflection of my passion for clean code and intuitive user experiences. It highlights my transition from a student to a professional engineer, focusing on full-stack development.
 
-## Expanding the ESLint configuration
+![Portfolio Preview]<img width="1915" height="867" alt="image" src="https://github.com/user-attachments/assets/e8cc8072-ddc4-43cf-ad6b-190cc0d93bce" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technical Toolkit
+
+### **Frontend**
+* **Frameworks:** React.js, Tailwind CSS
+* **Tools:** Vite, React Router, Context API
+
+### **Backend**
+* **Environments:** Node.js, Express.js
+* **Databases:** MongoDB (Mongoose)
+* **Integrations:** REST APIs, AI SDKs (Gemini/OpenAI)
+
+### **Languages**
+* JavaScript (ES6+), Python (LeetCode & Algorithms)
+
+---
+
+## 📂 Featured Projects
+
+### **1. Interview Prep AI** 🤖
+A full-stack MERN application that uses Gemini 1.5 Flash to generate technical interview questions and professional answers in real-time.
+* *Key Tech:* React, Node.js, MongoDB, Google AI SDK.
+
+### **2. Resume Builder** 📝
+A comprehensive tool for creating professional resumes with dynamic templates.
+* *Key Tech:* Full-stack JavaScript.
+
+![Projects Showcase]<img width="1905" height="858" alt="image" src="https://github.com/user-attachments/assets/730a242a-92d8-41ed-85bc-fe53a522be84" />
+
+
+---
+
+## 📈 Journey & Education
+
+* **Degree:** B.Sc. in Software Engineering (Recent Graduate)
+* **Focus:** Full-stack development, modern web architectures, and algorithmic problem solving.
+* **Projects:** Active contributor to personal and collaborative GitHub repositories.
+
+---
+
+## 📬 Contact Me
+
+I'm currently looking for **Junior Full-Stack Developer** positions. If you'd like to discuss a project or just say hi, feel free to reach out!
+
+* **Email:** adim806@gmail.com
+* **Location:** Gedera, Israel
+
+---
+*Built with ❤️ by Adi Meller*
+
