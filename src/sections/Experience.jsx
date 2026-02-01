@@ -6,7 +6,7 @@ const experiences = [
       role: "B.Sc. Software Engineering Student",
       company: "SCE - Software College of Engineering",
       description:
-        "Completed a comprehensive degree in Software Engineering, specializing in full-stack development. Built various intelligent systems, including API-based projects and AI-integrated tools with automated CI/CD pipelines.",
+        "Software Engineering graduate with a solid background in Computer Science fundamentals. I have successfully completed core courses ranging from OOP and Design Patterns to Algorithms and Mathematics. My experience includes developing Full-Stack systems and AI-integrated tools, supported by automated CI/CD pipelines.",
       technologies: ["React", "JavaScript","HTML", "CSS", "Python","Next.js", "Node.js", "Docker", "MongoDB", "Express", "MySQL", "Algorithms", "Git", "CI/CD", "AI", "Dev-Ops", "Agile", "OOP", "Design Patterns", "Data Structures"],
       current: true,
     },
@@ -15,7 +15,7 @@ const experiences = [
       role: "Combat Officer (Captain) – Air Defense Array",
       company: "IDF",
       description:
-        "Operational Team Lead managing 20-person units in high-pressure environments. Specialized in mission-critical system operations (Iron Dome) and intelligence data analysis to support strategic decision-making.",
+        "Experienced Commissioned Officer (Platoon Commander, Ops & Intelligence) with a background in high-pressure environments. Specialized in managing mission-critical systems and analyzing complex data to support strategic decisions. A results-driven leader experienced in leading units of 20+ personnel through professional and operational challenges.",
       technologies: ["Leadership", "Data Analysis", "Strategic Planning", "Critical Systems"],
       current: false,
     },
@@ -35,7 +35,7 @@ export const Experience = () => {
             <p className="text-muted-foreground animate-fade-in animation-delay-200"
             >
                 A timeline of my professional growth, from curious beginner to 
-                senior engineer leading teams and building products at scale.
+                software engineer leading teams and building products at scale.
             </p>
         </div>
 
