@@ -12,7 +12,8 @@ Welcome to my personal portfolio repository. This site serves as a central hub t
 
 This portfolio is a reflection of my passion for clean code and intuitive user experiences. It highlights my transition from a student to a professional engineer, focusing on full-stack development.
 
-![Portfolio Preview]<img width="1915" height="867" alt="image" src="https://github.com/user-attachments/assets/e8cc8072-ddc4-43cf-ad6b-190cc0d93bce" />
+[Portfolio Preview]
+<img width="1915" height="867" alt="d11" src="https://github.com/user-attachments/assets/41f9bb68-636e-4ab8-95d2-4b1976862d41" />
 
 ## 🛠️ Technical Toolkit
 
@@ -40,7 +41,8 @@ A full-stack MERN application that uses Gemini 1.5 Flash to generate technical i
 A comprehensive tool for creating professional resumes with dynamic templates.
 * *Key Tech:* Full-stack JavaScript.
 
-![Projects Showcase]<img width="1905" height="858" alt="image" src="https://github.com/user-attachments/assets/730a242a-92d8-41ed-85bc-fe53a522be84" />
+![Projects Showcase]
+<img width="1905" height="858" alt="d22" src="https://github.com/user-attachments/assets/e59c3134-acf3-4a79-a0de-768547e79852" />
 
 
 ---
@@ -54,6 +56,7 @@ A comprehensive tool for creating professional resumes with dynamic templates.
 ---
 
 ## 📬 Contact Me
+<img width="1905" height="858" alt="d33" src="https://github.com/user-attachments/assets/d77835c4-80fa-42a6-bff3-0e10961a091b" />
 
 I'm currently looking for **Junior Full-Stack Developer** positions. If you'd like to discuss a project or just say hi, feel free to reach out!
 
